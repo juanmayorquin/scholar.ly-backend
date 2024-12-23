@@ -1,5 +1,5 @@
 {
-  "name": "grademate-backend",
+  "name": "scholarly-backend",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "nanoid": "^3.0.9"
   },
